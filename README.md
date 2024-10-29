@@ -32,9 +32,9 @@
 
         <div class="chamada-texto">
 
-            <h1>ATRAVÉS DO ARANHAVERSO</h1>
+            <h1>ALTAS AVENTURAS </h1>
 
-            <p>#homem-aranha</p>
+            <p>#up</p>
 
         </div>
 
@@ -62,9 +62,9 @@
 
         <div class="categoria-videos">
 
-            <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
+            <a href="https://youtu.be/72W2owLvMek?si=RhfUDhgU7Zv0mFD5">
 
-                <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+                <img src="https://i.ytimg.com/vi/72W2owLvMek/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArdUdlo6jNPfHe_b6YDchAI9CwGA" />
 
             </a>
 
